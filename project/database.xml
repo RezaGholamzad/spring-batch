@@ -1,0 +1,2202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_252" class="java.beans.XMLDecoder">
+ <object class="java.util.LinkedList">
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-780051396500</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <string>bfefdabcf</string>
+    </void>
+    <void property="transactions">
+     <int>87</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1045065803605</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="name">
+     <string>bbdcbbfbbfee</string>
+    </void>
+    <void property="transactions">
+     <int>14</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1374937403618</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="name">
+     <string>cbafeaceccebaa</string>
+    </void>
+    <void property="transactions">
+     <int>90</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>798649403641</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="name">
+     <string>feeefbbdcefee</string>
+    </void>
+    <void property="transactions">
+     <int>22</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1021302203663</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="name">
+     <string>aaeadcaeddffc</string>
+    </void>
+    <void property="transactions">
+     <int>75</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-209465796319</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="name">
+     <string>acdababbfdec</string>
+    </void>
+    <void property="transactions">
+     <int>5</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1289980596299</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>6</int>
+    </void>
+    <void property="name">
+     <string>abfbdedcc</string>
+    </void>
+    <void property="transactions">
+     <int>13</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-618137796285</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>7</int>
+    </void>
+    <void property="name">
+     <string>cabeece</string>
+    </void>
+    <void property="transactions">
+     <int>87</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>119027003730</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>8</int>
+    </void>
+    <void property="name">
+     <string>defddddafcbde</string>
+    </void>
+    <void property="transactions">
+     <int>78</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-60681396251</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>9</int>
+    </void>
+    <void property="name">
+     <string>acbaffacddde</string>
+    </void>
+    <void property="transactions">
+     <int>81</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1563203003766</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>10</int>
+    </void>
+    <void property="name">
+     <string>ccabdecefabc</string>
+    </void>
+    <void property="transactions">
+     <int>7</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1462633403785</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>11</int>
+    </void>
+    <void property="name">
+     <string>afaaddef</string>
+    </void>
+    <void property="transactions">
+     <int>64</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-112697796199</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>12</int>
+    </void>
+    <void property="name">
+     <string>cfdabaeebe</string>
+    </void>
+    <void property="transactions">
+     <int>32</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-604655796183</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>13</int>
+    </void>
+    <void property="name">
+     <string>fdccfbffeda</string>
+    </void>
+    <void property="transactions">
+     <int>84</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-328092996167</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>14</int>
+    </void>
+    <void property="name">
+     <string>bdcebecacfb</string>
+    </void>
+    <void property="transactions">
+     <int>3</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>182444603852</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>15</int>
+    </void>
+    <void property="name">
+     <string>dcbdafdccdabcb</string>
+    </void>
+    <void property="transactions">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-598521396128</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>16</int>
+    </void>
+    <void property="name">
+     <string>bedadfadabcffaceb</string>
+    </void>
+    <void property="transactions">
+     <int>86</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1157702196106</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>17</int>
+    </void>
+    <void property="name">
+     <string>eabcaccdefbdccdc</string>
+    </void>
+    <void property="transactions">
+     <int>40</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>298393403912</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>18</int>
+    </void>
+    <void property="name">
+     <string>dedbdccfaaa</string>
+    </void>
+    <void property="transactions">
+     <int>53</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1510934603931</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>19</int>
+    </void>
+    <void property="name">
+     <string>facfeefcbbe</string>
+    </void>
+    <void property="transactions">
+     <int>67</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>497372603951</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>20</int>
+    </void>
+    <void property="name">
+     <string>babdcccbdade</string>
+    </void>
+    <void property="transactions">
+     <int>19</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1053702203969</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>21</int>
+    </void>
+    <void property="name">
+     <string>fdcaeefb</string>
+    </void>
+    <void property="transactions">
+     <int>78</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-28194996014</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>22</int>
+    </void>
+    <void property="name">
+     <string>bfcaefd</string>
+    </void>
+    <void property="transactions">
+     <int>19</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-190454195995</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>23</int>
+    </void>
+    <void property="name">
+     <string>baeecaa</string>
+    </void>
+    <void property="transactions">
+     <int>77</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1139385395977</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>24</int>
+    </void>
+    <void property="name">
+     <string>bcddaccbebbefa</string>
+    </void>
+    <void property="transactions">
+     <int>77</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-62754995959</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>25</int>
+    </void>
+    <void property="name">
+     <string>aabccfcafeecc</string>
+    </void>
+    <void property="transactions">
+     <int>40</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>402159804061</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>26</int>
+    </void>
+    <void property="name">
+     <string>cadfdecdcdbeda</string>
+    </void>
+    <void property="transactions">
+     <int>34</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-33033395920</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>27</int>
+    </void>
+    <void property="name">
+     <string>ebcdebabcbf</string>
+    </void>
+    <void property="transactions">
+     <int>55</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1530198204114</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>28</int>
+    </void>
+    <void property="name">
+     <string>bbcdfbaefaaa</string>
+    </void>
+    <void property="transactions">
+     <int>29</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>152899404137</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>29</int>
+    </void>
+    <void property="name">
+     <string>aaeeacfcddfdf</string>
+    </void>
+    <void property="transactions">
+     <int>72</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>286646604159</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>faefbdcadaa</string>
+    </void>
+    <void property="transactions">
+     <int>7</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-804934595819</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>31</int>
+    </void>
+    <void property="name">
+     <string>bbdcddfecce</string>
+    </void>
+    <void property="transactions">
+     <int>29</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-206096195796</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>32</int>
+    </void>
+    <void property="name">
+     <string>eeffbaece</string>
+    </void>
+    <void property="transactions">
+     <int>86</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-92476595775</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>33</int>
+    </void>
+    <void property="name">
+     <string>bcdecaeafddd</string>
+    </void>
+    <void property="transactions">
+     <int>85</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>191779404247</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>34</int>
+    </void>
+    <void property="name">
+     <string>fdafddaddfdd</string>
+    </void>
+    <void property="transactions">
+     <int>8</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>375897804269</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>35</int>
+    </void>
+    <void property="name">
+     <string>abfaceecfeabfed</string>
+    </void>
+    <void property="transactions">
+     <int>45</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>186941004293</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>36</int>
+    </void>
+    <void property="name">
+     <string>debddaeecdaf</string>
+    </void>
+    <void property="transactions">
+     <int>73</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1228118195678</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>37</int>
+    </void>
+    <void property="name">
+     <string>cdcbafefaddbe</string>
+    </void>
+    <void property="transactions">
+     <int>49</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-489056195654</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>38</int>
+    </void>
+    <void property="name">
+     <string>cbaeebdadeaff</string>
+    </void>
+    <void property="transactions">
+     <int>3</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>49215804380</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>39</int>
+    </void>
+    <void property="name">
+     <string>bacbabbf</string>
+    </void>
+    <void property="transactions">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1092297395595</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>40</int>
+    </void>
+    <void property="name">
+     <string>bcafababaacaf</string>
+    </void>
+    <void property="transactions">
+     <int>66</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>681145404431</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>41</int>
+    </void>
+    <void property="name">
+     <string>aeefedaadcdcab</string>
+    </void>
+    <void property="transactions">
+     <int>85</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-835952195541</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>42</int>
+    </void>
+    <void property="name">
+     <string>aeacdfdaadc</string>
+    </void>
+    <void property="transactions">
+     <int>95</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-193305395505</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>43</int>
+    </void>
+    <void property="name">
+     <string>adeafc</string>
+    </void>
+    <void property="transactions">
+     <int>29</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1321632204545</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>44</int>
+    </void>
+    <void property="name">
+     <string>fafffbebdfbaee</string>
+    </void>
+    <void property="transactions">
+     <int>62</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1536911795406</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>45</int>
+    </void>
+    <void property="name">
+     <string>cdacdcefcafc</string>
+    </void>
+    <void property="transactions">
+     <int>29</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1061711795372</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>46</int>
+    </void>
+    <void property="name">
+     <string>efeebcebbf</string>
+    </void>
+    <void property="transactions">
+     <int>12</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1262189004661</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>47</int>
+    </void>
+    <void property="name">
+     <string>decebeffcfeabfb</string>
+    </void>
+    <void property="transactions">
+     <int>9</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1008777804693</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>48</int>
+    </void>
+    <void property="name">
+     <string>aedbbcbbcee</string>
+    </void>
+    <void property="transactions">
+     <int>63</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>500832204731</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>49</int>
+    </void>
+    <void property="name">
+     <string>ffaceaeebfef</string>
+    </void>
+    <void property="transactions">
+     <int>47</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1171958195236</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>50</int>
+    </void>
+    <void property="name">
+     <string>fdcdfdfcacffccfa</string>
+    </void>
+    <void property="transactions">
+     <int>80</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-396694595203</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>51</int>
+    </void>
+    <void property="name">
+     <string>bbcabbacfafe</string>
+    </void>
+    <void property="transactions">
+     <int>38</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>549731004830</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>52</int>
+    </void>
+    <void property="name">
+     <string>daedbbbdc</string>
+    </void>
+    <void property="transactions">
+     <int>11</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>732211404864</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>53</int>
+    </void>
+    <void property="name">
+     <string>bdaacef</string>
+    </void>
+    <void property="transactions">
+     <int>60</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1552921404895</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>54</int>
+    </void>
+    <void property="name">
+     <string>ccfaefdaadefc</string>
+    </void>
+    <void property="transactions">
+     <int>18</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-924335795073</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>55</int>
+    </void>
+    <void property="name">
+     <string>dbaaefdeebdeda</string>
+    </void>
+    <void property="transactions">
+     <int>18</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>113929404961</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>56</int>
+    </void>
+    <void property="name">
+     <string>abecbbbcdfcd</string>
+    </void>
+    <void property="transactions">
+     <int>54</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1398697404995</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>57</int>
+    </void>
+    <void property="name">
+     <string>bdfbeccddbe</string>
+    </void>
+    <void property="transactions">
+     <int>5</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1559919805032</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>58</int>
+    </void>
+    <void property="name">
+     <string>cdaecddbf</string>
+    </void>
+    <void property="transactions">
+     <int>76</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>953568205068</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>59</int>
+    </void>
+    <void property="name">
+     <string>ccefabfabdfff</string>
+    </void>
+    <void property="transactions">
+     <int>27</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1489248205110</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>60</int>
+    </void>
+    <void property="name">
+     <string>cdaefcbdedfffdfa</string>
+    </void>
+    <void property="transactions">
+     <int>8</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1114614205150</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>61</int>
+    </void>
+    <void property="name">
+     <string>dfeffacbdfdefc</string>
+    </void>
+    <void property="transactions">
+     <int>37</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1228809394814</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>62</int>
+    </void>
+    <void property="name">
+     <string>dfadfccedb</string>
+    </void>
+    <void property="transactions">
+     <int>48</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1219650994774</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>63</int>
+    </void>
+    <void property="name">
+     <string>cbceeaafffe</string>
+    </void>
+    <void property="transactions">
+     <int>6</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-149154994737</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>64</int>
+    </void>
+    <void property="name">
+     <string>dececeaeae</string>
+    </void>
+    <void property="transactions">
+     <int>14</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>842799805301</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>65</int>
+    </void>
+    <void property="name">
+     <string>ccebdafadab</string>
+    </void>
+    <void property="transactions">
+     <int>34</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1080806194661</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>66</int>
+    </void>
+    <void property="name">
+     <string>faeeccfbf</string>
+    </void>
+    <void property="transactions">
+     <int>40</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1453305805377</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>67</int>
+    </void>
+    <void property="name">
+     <string>ecafcfdfaacfb</string>
+    </void>
+    <void property="transactions">
+     <int>66</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-207219394582</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>68</int>
+    </void>
+    <void property="name">
+     <string>ccdefcbefc</string>
+    </void>
+    <void property="transactions">
+     <int>73</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-899884594541</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>69</int>
+    </void>
+    <void property="name">
+     <string>dfcccadbacfd</string>
+    </void>
+    <void property="transactions">
+     <int>16</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1404287794502</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>70</int>
+    </void>
+    <void property="name">
+     <string>cfecacfdabdffacad</string>
+    </void>
+    <void property="transactions">
+     <int>36</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1222242994457</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>71</int>
+    </void>
+    <void property="name">
+     <string>cabeacfabc</string>
+    </void>
+    <void property="transactions">
+     <int>24</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>99763405590</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>72</int>
+    </void>
+    <void property="name">
+     <string>fceffaabcbbbee</string>
+    </void>
+    <void property="transactions">
+     <int>23</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>711212605647</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>73</int>
+    </void>
+    <void property="name">
+     <string>fdafddeadcbbaba</string>
+    </void>
+    <void property="transactions">
+     <int>90</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-797849794307</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>74</int>
+    </void>
+    <void property="name">
+     <string>bfcaaceaccbaeedeb</string>
+    </void>
+    <void property="transactions">
+     <int>39</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1196870605741</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>75</int>
+    </void>
+    <void property="name">
+     <string>eebdcfeda</string>
+    </void>
+    <void property="transactions">
+     <int>91</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1540972594210</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>76</int>
+    </void>
+    <void property="name">
+     <string>ebaaaffb</string>
+    </void>
+    <void property="transactions">
+     <int>51</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-139913794158</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>77</int>
+    </void>
+    <void property="name">
+     <string>ceaeabeccee</string>
+    </void>
+    <void property="transactions">
+     <int>90</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>571593805889</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>78</int>
+    </void>
+    <void property="name">
+     <string>ecebcbbbebcedcb</string>
+    </void>
+    <void property="transactions">
+     <int>3</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1124783794060</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>79</int>
+    </void>
+    <void property="name">
+     <string>ddbaddbbccddebd</string>
+    </void>
+    <void property="transactions">
+     <int>69</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1126623805990</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>80</int>
+    </void>
+    <void property="name">
+     <string>fabdefdcabfd</string>
+    </void>
+    <void property="transactions">
+     <int>95</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>186509006033</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>81</int>
+    </void>
+    <void property="name">
+     <string>ddacaabadbbddffc</string>
+    </void>
+    <void property="transactions">
+     <int>29</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-512726193918</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>82</int>
+    </void>
+    <void property="name">
+     <string>bdcbafbef</string>
+    </void>
+    <void property="transactions">
+     <int>7</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1455004593866</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>83</int>
+    </void>
+    <void property="name">
+     <string>bdfaaafddc</string>
+    </void>
+    <void property="transactions">
+     <int>40</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>245516606182</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>84</int>
+    </void>
+    <void property="name">
+     <string>bfdfeeebeadaaaf</string>
+    </void>
+    <void property="transactions">
+     <int>62</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-955958193769</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>85</int>
+    </void>
+    <void property="name">
+     <string>dbbdbadef</string>
+    </void>
+    <void property="transactions">
+     <int>52</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>90691406279</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>86</int>
+    </void>
+    <void property="name">
+     <string>acbfdcecccabea</string>
+    </void>
+    <void property="transactions">
+     <int>39</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1550678606327</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>87</int>
+    </void>
+    <void property="name">
+     <string>efcceccbdafcabd</string>
+    </void>
+    <void property="transactions">
+     <int>19</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-30095793625</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>88</int>
+    </void>
+    <void property="name">
+     <string>acdcaadeacd</string>
+    </void>
+    <void property="transactions">
+     <int>89</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1566719793574</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>89</int>
+    </void>
+    <void property="name">
+     <string>dcebbacbfbb</string>
+    </void>
+    <void property="transactions">
+     <int>15</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1045411406477</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>90</int>
+    </void>
+    <void property="name">
+     <string>cdacffaabbfb</string>
+    </void>
+    <void property="transactions">
+     <int>97</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>3686606525</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>91</int>
+    </void>
+    <void property="name">
+     <string>dfcaecfbdfdbdf</string>
+    </void>
+    <void property="transactions">
+     <int>69</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>485017406575</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>92</int>
+    </void>
+    <void property="name">
+     <string>fedaabef</string>
+    </void>
+    <void property="transactions">
+     <int>28</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1047196593374</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>93</int>
+    </void>
+    <void property="name">
+     <string>bacfadda</string>
+    </void>
+    <void property="transactions">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-295088193316</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>94</int>
+    </void>
+    <void property="name">
+     <string>bbefdaeaafe</string>
+    </void>
+    <void property="transactions">
+     <int>89</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-308044593261</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>95</int>
+    </void>
+    <void property="name">
+     <string>fbbbfbbbdffbb</string>
+    </void>
+    <void property="transactions">
+     <int>15</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-1309161393207</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>96</int>
+    </void>
+    <void property="name">
+     <string>adefeafcbacfa</string>
+    </void>
+    <void property="transactions">
+     <int>46</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>1199117006848</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>97</int>
+    </void>
+    <void property="name">
+     <string>cebbfafeaada</string>
+    </void>
+    <void property="transactions">
+     <int>92</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>783443006906</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>98</int>
+    </void>
+    <void property="name">
+     <string>ecdbdfdecfbecac</string>
+    </void>
+    <void property="transactions">
+     <int>20</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.toptal.springBatch.domain.Customer">
+    <void property="birthday">
+     <object class="java.util.GregorianCalendar">
+      <void property="time">
+       <object class="java.util.Date">
+        <long>-641375793038</long>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="id">
+     <int>99</int>
+    </void>
+    <void property="name">
+     <string>febbecbeda</string>
+    </void>
+    <void property="transactions">
+     <int>38</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
